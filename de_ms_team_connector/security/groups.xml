@@ -1,0 +1,13 @@
+<odoo>
+
+    <record model="ir.module.category" id="microsoft_teams">
+        <field name="name">Microsoft Teams</field>
+        <field name="description">User access level for leaves</field>
+        <field name="sequence">20</field>
+    </record>
+
+    <record id="portal_user" model="res.groups">
+        <field name="name">Team Access</field>
+        <field name="category_id" ref="microsoft_teams"/>
+    </record>
+</odoo>

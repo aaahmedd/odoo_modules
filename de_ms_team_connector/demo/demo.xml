@@ -1,0 +1,20 @@
+<odoo>
+    <data>
+<!--        <record id="reason_repair_data" model="res.groups">-->
+<!--              <field name="name">users</field>-->
+<!--              <field name="action">Repair</field>-->
+<!--        </record>-->
+<!--        <record id="reason_refund_data" model="rma.reason">-->
+<!--              <field name="name">Refund</field>-->
+<!--              <field name="action">Refund</field>-->
+<!--        </record>-->
+<!--        <record id="reason_replace_same_demo_data" model="rma.reason">-->
+<!--              <field name="name">Replace With Same Product</field>-->
+<!--              <field name="action">Replace With Same Product</field>-->
+<!--        </record>-->
+<!--        <record id="reason_replace_different_demo_data" model="rma.reason">-->
+<!--              <field name="name">Replace With Different Product</field>-->
+<!--              <field name="action">Replace With Different Product</field>-->
+<!--        </record>-->
+    </data>
+</odoo>
